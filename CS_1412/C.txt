@@ -1,0 +1,1 @@
+This folder is for all of my projects and labs done in my intro to C class.
